@@ -7,6 +7,8 @@ name = "pypi"
 
 [packages]
 
+bottle = "*"
+prompt-toolkit = "*"
 
 
 [dev-packages]
